@@ -10,7 +10,7 @@ Where there is effort, there is success.
 
 Infrastructure
 --------
-1.16 vCPU Cores - 64 GB RAM - 2 TB SSD 
+<a 1.16 vCPU Cores - 64 GB RAM - 2 TB SSD/></a> 
 2.6 vCPU Cores 16 GB RAM 400 GB SSD
 
 My node
@@ -41,7 +41,7 @@ src="https://img.shields.io/twitter/follow/dangerousohm3?logo=twitter&style=for-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/dangerousohm"><img src="https://github-readme-stats.vercel.app/api?username=dangerousohm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="dangerousohm's GitHub stats" /></a>
+<a href="http://www.github.com/dangerousohm"><img src="https://github-readme-stats.vercel.app/api?username=dangerousohm&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="dangerousohm's GitHub stats"  
 
 <a href="http://www.github.com/dangerousohm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dangerousohm&stroke=000000&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
