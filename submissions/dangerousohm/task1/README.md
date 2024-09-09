@@ -18,8 +18,11 @@ My node
 --------
 
 1.OG Labs: https://testnet.explorer.liveraven.net/zero-gravity/staking/0gvaloper1afwgu7y4llt0xzj365g3y8kkns6rrkxmlk90pw
+
 2.fuel node
+
 3.Story node: https://testnet.story.explorers.guru/validator/storyvaloper1kt9kd2h8as47qwsu8zce2x0l2mdjeuy6mw8pyt
+
 4.allorad node
 
 <a href="https://www.x.com/dangerousohm3" target="_blank" rel="noreferrer"><img
