@@ -1,7 +1,7 @@
 ##About Me
-Hello, my name is Ann. I have been in the node running market for less than 1 year. 
-I admit that my experience is limited, but I try to study and understand the history of the system. 
-Sometimes there are system errors, but I can fix them. If I am invited to take care of the system, 
+Hello, my name is Ann. I have been in the node running market for less than 1 year.
+I admit that my experience is limited, but I try to study and understand the history of the system.
+Sometimes there are system errors, but I can fix them. If I am invited to take care of the system,
 I will try my best to take care of the system and fix the system problems immediately. I promise.
 
 ##Motto
