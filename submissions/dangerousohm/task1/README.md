@@ -10,7 +10,8 @@ Where there is effort, there is success.
 
 Infrastructure
 --------
-<a 1.16 vCPU Cores - 64 GB RAM - 2 TB SSD/></a> 
+1.16 vCPU Cores - 64 GB RAM - 2 TB SSD
+
 2.6 vCPU Cores 16 GB RAM 400 GB SSD
 
 My node
